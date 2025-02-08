@@ -56,3 +56,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - [OpenCV](https://opencv.org/)
 - [Streamlit](https://streamlit.io/)
 - [NumPy](https://numpy.org/)
+
+## Demo
+This project is deployed [HERE](https://objecttrackingproject2.streamlit.app/)
+
