@@ -8,7 +8,7 @@ import time
 def convert_color(img):
     img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
     return img
-
+print('Hello')
 # Set the title and sidebar
 st.set_page_config(page_title="Object Tracking Application", page_icon="🎥", layout="wide")
 st.title("🎥 Object Tracking Application")
